@@ -40,5 +40,5 @@ Only "a", "b" are the two kind of gem-elements, since these characters occur in 
 
 
 ##Solutions
-Solution 1 - [Fiddle](https://jsfiddle.net/EmilioAiolfi/ugjk2522/)
-Solution 2 in E6 - [Fiddle](https://jsfiddle.net/EmilioAiolfi/4L5kzooa/)
+- Solution 1 - [Fiddle](https://jsfiddle.net/EmilioAiolfi/ugjk2522/)
+- Solution 2 in E6 - [Fiddle](https://jsfiddle.net/EmilioAiolfi/4L5kzooa/)
