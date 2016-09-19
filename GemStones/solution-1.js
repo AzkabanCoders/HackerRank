@@ -1,6 +1,7 @@
 // Check Fiddle
 // https://jsfiddle.net/EmilioAiolfi/ugjk2522/
 
+// Solution
 function intersect(arr1, arr2) {
     var unique1 = arr1.distinct();
     var unique2 = arr2.distinct();

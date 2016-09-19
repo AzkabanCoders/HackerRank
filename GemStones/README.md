@@ -5,10 +5,12 @@ John has discovered various rocks. Each rock is composed of various elements, an
 Given the list of rocks with their compositions, you have to print how many different kinds of gem-elements he has.
 
 ###Input Format###
+
 The first line consists of N, the number of rocks.
 Each of the next N lines contain rocks' composition. Each composition consists of small alphabets of English language.
 
 ###Output Format###
+
 Print the number of different kinds of gem-elements he has.
 
 ###Constraints###
@@ -35,9 +37,8 @@ eeabg
 ```
 
 ###Explanation###
+
 Only "a", "b" are the two kind of gem-elements, since these characters occur in each of the rocks' composition.
-
-
 
 ##Solutions
 - Solution 1 - [Fiddle](https://jsfiddle.net/EmilioAiolfi/ugjk2522/)

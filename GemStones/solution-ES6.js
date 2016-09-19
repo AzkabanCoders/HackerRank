@@ -1,6 +1,7 @@
 // Check Fiddle
 // https://jsfiddle.net/EmilioAiolfi/4L5kzooa/
 
+// Solution
 function processData(input) {
     console.log( new Set(input.toLowerCase()
         .split('\n')

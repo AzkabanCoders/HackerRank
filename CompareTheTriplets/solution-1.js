@@ -30,7 +30,7 @@ function main() {
     var b1 = parseInt(b0_temp[1]);
     var b2 = parseInt(b0_temp[2]);
 
-
+    // Solution
     var alice = 0, bob = 0;
 
     if (a0 > b0) { alice++; } else if(a0 === b0) {/* Do stuff nothing */} else { bob++ };
