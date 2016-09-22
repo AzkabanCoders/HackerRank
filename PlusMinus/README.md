@@ -41,3 +41,7 @@ You must print the following  lines:
 
 There are 3 positive numbers, 2 negative numbers, and 1 zero in the array.
 The respective fractions of positive numbers, negative numbers and zeroes are , (TODO) and , respectively.
+
+##Solutions
+
+- Solution 1 - [Fiddle](https://jsfiddle.net/EmilioAiolfi/qymw9g8u/)

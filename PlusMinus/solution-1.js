@@ -1,5 +1,5 @@
 // Check Fiddle
-// https://jsfiddle.net/EmilioAiolfi/zjLL2vLy/
+// https://jsfiddle.net/EmilioAiolfi/qymw9g8u/
 
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
