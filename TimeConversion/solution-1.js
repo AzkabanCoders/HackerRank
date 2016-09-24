@@ -25,17 +25,16 @@ function readLine() {
 
 function main() {
     // Solution
-    let time = readLine();
+    var time = readLine();
     let timePieces = time.split(':');
     let hours = Number(timePieces[0]);
     let minutes = timePieces[1];
     let seconds = timePieces[2].substr(0, 2);
     let periodAMPM = timePieces[2].slice(2).toLowerCase();
 
+    if (periodAMPM === "am" && hours === 12) hours = 0;
     if (periodAMPM === "pm" && hours < 12) {hours = hours + 12};
-    if (periodAMPM === "am" && hours === "12") hours = "00";
-    if (hours.length === 1) hours = "0" + hours;
+    if (hours < 10) hours = "0" + hours;
 
-    // Result
     console.log([hours, minutes, seconds].join(":"));
 }
