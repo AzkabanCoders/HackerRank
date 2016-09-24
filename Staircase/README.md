@@ -44,3 +44,6 @@ Note: The last line must have 0 spaces in it.
 ###Explanation###
 
 The staircase is right-aligned, composed of # symbols and spaces, and has a height and width of N = 6.
+
+##Solutions
+- Solution 1 - [Fiddle](https://jsfiddle.net/EmilioAiolfi/3hoqfs5q/)
